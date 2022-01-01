@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Time: 0:0.00"; ObjectID = "39T-7y-ZsD"; */
+"39T-7y-ZsD.text" = "Time: 0:0.00";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AFj-Ya-qrh"; */
+"AFj-Ya-qrh.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Instructions"; ObjectID = "GLj-TR-nL5"; */
+"GLj-TR-nL5.normalTitle" = "Instructions";
+
+/* Class = "UILabel"; text = "High Score:"; ObjectID = "Iho-OC-aFf"; */
+"Iho-OC-aFf.text" = "High Score:";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "NMR-w1-Sf3"; */
+"NMR-w1-Sf3.normalTitle" = "Play";
+
+/* Class = "UIViewController"; title = "Third View Controller Scene"; ObjectID = "QrT-kN-cww"; */
+"QrT-kN-cww.title" = "Third View Controller Scene";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UvE-7W-rOY"; */
+"UvE-7W-rOY.text" = "Label";
+
+/* Class = "UITextView"; text = "Instructions: Flip one card over and solve the mathematical expression on the card. Flip another card over and solve the mathematical expression on that card. If the mathematical expressions on each card match than they will disappear. If they do not, they will flip back over again. Repeat this process until all cards are matched.  Objective: Match all the cards as fast as possible to try and beat yuor high score! "; ObjectID = "lHc-JS-Y0I"; */
+"lHc-JS-Y0I.text" = "Instructions: Flip one card over and solve the mathematical expression on the card. Flip another card over and solve the mathematical expression on that card. If the mathematical expressions on each card match than they will disappear. If they do not, they will flip back over again. Repeat this process until all cards are matched.  Objective: Match all the cards as fast as possible to try and beat yuor high score! ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vhw-e1-Rmg"; */
+"vhw-e1-Rmg.normalTitle" = "Button";
