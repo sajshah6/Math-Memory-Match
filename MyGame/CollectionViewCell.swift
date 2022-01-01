@@ -22,7 +22,7 @@ class CollectionViewCell: UICollectionViewCell {
         
         self.label = label
         
-        // https://dribbble.com/shots/6648861-Card-Game-Design
+        //https://dribbble.com/shots/6648861-Card-Game-Design
         frontImage.image = UIImage(named: "frontCard")
         mathExpression.text = label.expression
         
